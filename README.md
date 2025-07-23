@@ -1,58 +1,36 @@
-# Hi there, I'm Akhand Pratap Singh 👋  
+<h1 align="center">Hi 👋, I'm Akhand Pratap Singh</h1>
+<h3 align="center">A passionate Frontend Developer | Backend Enthusiast | Data Visualization Explorer from India</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AkhandPratapSingh&color=blue)
-
-## 🚀 About Me  
-💻 **Frontend Developer | Backend Enthusiast | Data Visualization Explorer**  
-I am passionate about building scalable web applications and creating impactful dashboards.  
-I love exploring new technologies and continuously improving my skills.  
-
----
-
-## 🛠️ Skills  
-
-### **Frontend**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-</p>
-
-### **Programming Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
-
-### **Backend**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-</p>
-
-### **Data Visualization & Cloud**  
-<p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-azure.png" alt="Azure" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Qlik Sense" width="40" height="40"/>
+<p align="center">
+  <a href="https://github.com/AkhandPratapSingh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Data+Visualization+Expert;Problem+Solver" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
 
-## 📫 Contact Me  
-- **Email:** [singhakhand181103@gmail.com](mailto:singhakhand181103@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/akhand-pratap-singh-74168a259](https://linkedin.com/in/akhand-pratap-singh-74168a259)  
-- **GitHub:** [github.com/AkhandPratapSingh](https://github.com/AkhandPratapSingh)  
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Akhand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhandPratapSingh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhandPratapSingh&layout=compact&theme=radical)  
+### 🌟 Let's Connect
 
----
-
-⭐ **Feel free to check out my repositories and connect!**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhand-pratap-singh-74168a259/">
+    <img src="https://img.shields.io/badge/Li
