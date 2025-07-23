@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/AkhandPratapSingh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Frontend+Developer;A passionate Data Analyst;Problem+Solver" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Frontend+Developer;Software+Developer;A+Passionate+Data+Analyst;Problem+Solver" alt="Typing Animation" />
   </a>
 </p>
 
